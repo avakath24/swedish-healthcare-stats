@@ -2,10 +2,7 @@
 
 A SQL-based statistics dashboard exploring Swedish emergency department waiting times and ICD-10 diagnosis data — modeled on the kind of register-based statistics work done by **Socialstyrelsen** (Sweden's National Board of Health and Welfare), publishers of the National Patient Register.
 
-**Live demo:** *(add your Streamlit Cloud link here after deploying)*
-**Screenshot:**
-
-*(add a screenshot here — run the app locally, take a screenshot, save it as `screenshot.png` in this folder, then add: `![App screenshot](screenshot.png)`)*
+**Live demo:https://swedish-healthcare-stats-denudrj8nahimjm8atuw66.streamlit.app/ 
 
 ---
 
